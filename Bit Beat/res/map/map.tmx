@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.1" orientation="orthogonal" renderorder="right-down" width="960" height="32" tilewidth="32" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="bar.tsx"/>
+ <layer id="1" name="line" width="960" height="32" offsetx="5" offsety="3">
+  <data encoding="base64" compression="zlib">
+   eJzt2kEKgDAMBMD2/5/24kkoWrQa3BkIuW3PW9IaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJCm75OSBwAAQJZjr7zbM6vnAQAAkOWsR872zOp5AAAAZPm6h76dBwAAQJZqd8gr80YbAACA/+iDeTq/at7Vt2Y3AAAAJFj1nwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABATRt+LABQ
+  </data>
+ </layer>
+ <objectgroup id="2" name="crystals"/>
+</map>

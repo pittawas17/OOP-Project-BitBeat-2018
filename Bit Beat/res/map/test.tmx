@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.1" orientation="orthogonal" renderorder="right-down" width="960" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="18" nextobjectid="81">
+ <tileset firstgid="1" name="line" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="line.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="2" name="small" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="2.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="3" name="bar" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="bar.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="4" name="ิbar2" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="bar2.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="5" name="bar3" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="bar3.png" width="32" height="32"/>
+ </tileset>
+ <layer id="17" name="line" width="960" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt2zEOhCAARUEK7n9mWyUioiCKM8kvF8x2L+6GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA48XRDwAAAAAdxbBtXx0MAADAk3p3aNq96zs1MAAAAL3stWfLDo3Jap4DAAAA7jrbo1fPLZ3f8k4AAAD+p9SQV7s097k7vVu6q/XZAAAAfN/ef2rT3zTXNGSuO0c2qQYGAACYn/eix9+BmZmZmZmZzTEAAAAAAAAAAAAAAAAAAOA9FiV3Dvk=
+  </data>
+ </layer>
+ <objectgroup id="3" name="crystals">
+  <object id="1" x="224" y="128">
+   <ellipse/>
+  </object>
+  <object id="2" x="224" y="128">
+   <ellipse/>
+  </object>
+  <object id="3" x="339.333" y="98.6667">
+   <ellipse/>
+  </object>
+  <object id="4" x="395" y="91">
+   <ellipse/>
+  </object>
+  <object id="5" x="430" y="86">
+   <ellipse/>
+  </object>
+  <object id="6" x="430" y="86">
+   <ellipse/>
+  </object>
+  <object id="10" x="167" y="66.6667">
+   <ellipse/>
+  </object>
+  <object id="11" x="136.333" y="111">
+   <ellipse/>
+  </object>
+  <object id="12" x="97" y="65.3333">
+   <ellipse/>
+  </object>
+  <object id="13" x="193.667" y="146.667">
+   <ellipse/>
+  </object>
+  <object id="14" x="238" y="93">
+   <ellipse/>
+  </object>
+  <object id="15" x="342" y="99" width="0.333333" height="0.333333">
+   <ellipse/>
+  </object>
+  <object id="76" x="460" y="850.667">
+   <ellipse/>
+  </object>
+  <object id="78" x="494.667" y="818.667">
+   <ellipse/>
+  </object>
+  <object id="79" x="332.667" y="820">
+   <ellipse/>
+  </object>
+  <object id="80" x="580" y="756.667">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

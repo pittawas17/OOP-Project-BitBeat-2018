@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.1" orientation="orthogonal" renderorder="right-down" width="400" height="32" tilewidth="32" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="bar5.tsx"/>
+ <tileset firstgid="1" name="bar5" tilewidth="32" tileheight="16" tilecount="2" columns="1">
+  <image source="bar5.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="3" source="bar5.1.tsx"/>
+ <tileset firstgid="5" source="bar5.2.tsx"/>
+ <tileset firstgid="7" source="bar5.3.tsx"/>
+ <layer id="1" name="line" width="400" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt2tEKgjAUBmAhwvd/4woSLNI52fJs+z7wwptId3b+OZ0mAAAAAAAAAAAAAAAAAAAAoAW35zHvnAMAafITqO3VZ+7vI1K/ST1PjNAfR7hG2hC1TwAA9fSe/y2vtZexmTfOc34nwj04+/8hgijzCOjHVi6m8lKeQiyjrxH0JChj9F4CnNf73u5Ion0nk9qbtg6sy9wu6+r5BDXk5IY5AOWYa6REXSerz31Rxw2OWD8/qmNKkRtt+JVfR743MbZcbalD9dgPYwmk6P2fetiH+H6XmfNuUx0A/Nc6d/b2EqJmk9wAAAAAAAAAAAAAAAAgugczhwLl
+  </data>
+ </layer>
+ <objectgroup id="2" name="crystals"/>
+</map>
